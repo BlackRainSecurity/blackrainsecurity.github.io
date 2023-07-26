@@ -7,41 +7,41 @@ permalink: /clients/
 
 Government Agencies:
 
-    Department of Defense (DoD)
-    Federal Bureau of Investigation (FBI)
-    Homeland Security (DHS)
+   *  Department of Defense (DoD)
+    * Federal Bureau of Investigation (FBI)
+    * Homeland Security (DHS)
 
 Fortune 500 Companies:
 
-    Tech Giants 
-    Financial Institutions 
-    Pharmaceutical Corporations 
+    * Tech Giants 
+    * Financial Institutions 
+    * Pharmaceutical Corporations 
 
 Critical Infrastructure Providers:
 
-    Power Plants and Utilities
-    Transportation Networks
-    Telecommunication Companies
+    * Power Plants and Utilities
+    * Transportation Networks
+    * Telecommunication Companies
 
 Non-Governmental Organizations (NGOs):
 
-    Humanitarian Aid Groups
-    Environmental Conservation Organizations
-    Educational Institutions
+    * Humanitarian Aid Groups
+    * Environmental Conservation Organizations
+    * Educational Institutions
 
 Private Security Firms and Contractors:
 
-    Corporate Security Services
-    Executive Protection Teams
-    Security Consultancy Firms
+    * NCorporate Security Services
+    * Executive Protection Teams
+    * Security Consultancy Firms
 
 High-Net-Worth Individuals (HNWIs):
 
-    Billionaires
-    Celebrities
-    Influential Personalities
+    * Billionaires
+    * Celebrities
+    * Influential Personalities
 
 International Embassies and Diplomatic Missions:
 
-    US Embassies Worldwide
-    Foreign Diplomatic Outposts
+    * US Embassies Worldwide
+    * Foreign Diplomatic Outposts
