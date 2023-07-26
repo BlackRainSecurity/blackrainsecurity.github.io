@@ -4,7 +4,7 @@ title: Solutions
 permalink: /solutions/
 ---
 ### Our Solutions
-1. server and configuration: 
+1. Server and Configuration: 
     * Linux server setup, configuration, and administration
     * Troubleshooting and resolving Linux-related issues
     * Designing, implementing, and managing secure networks
@@ -29,15 +29,7 @@ permalink: /solutions/
     * Data recovery and analysis in cases of cyber incidents or data breaches
     * Gathering and analyzing publicly available information to support investigations
     * Utilizing OSINT for threat intelligence and risk assessment
-
     
 5. Virtualization Solutions:
     * Virtualization technology deployment and configuration
     * Virtual machine management and support
-
-
-
-
-
-
-
