@@ -3,10 +3,8 @@ layout: page
 title: Clients
 permalink: /clients/
 ---
-
-
 Government Agencies:
-   *  Department of Defense (DoD)
+    * Department of Defense (DoD)
     * Federal Bureau of Investigation (FBI)
     * Homeland Security (DHS)
 
