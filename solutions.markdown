@@ -32,5 +32,12 @@ permalink: /solutions/
 
     
 5. Virtualization Solutions:
-    ◦ Virtualization technology deployment and configuration
-    ◦ Virtual machine management and support
+    * Virtualization technology deployment and configuration
+    * Virtual machine management and support
+
+
+
+
+
+
+
