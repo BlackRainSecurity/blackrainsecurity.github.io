@@ -24,6 +24,20 @@
   }
 }
 
+/**
+ * Adjust the site logo
+ */
+.site-logo {
+  display: inline-block;
+  margin-right: $spacing-unit;
+
+  img {
+    max-height: $spacing-unit * 1.5;
+    height: auto;
+    width: auto;
+  }
+}
+
 .site-nav {
   float: right;
   line-height: $base-line-height * $base-font-size * 2.25;

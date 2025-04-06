@@ -2,8 +2,14 @@
 <html lang="{{ page.lang | default: site.lang | default: "en" }}">
 
   {%- include head.html -%}
-
   <body>
+    <header class="site-header">
+      <div class="wrapper">
+        <a href="{{ '/' | relative_url }}" class="site-logo">
+          <img src="{{ '/assets/images/logo.png' | relative_url }}" alt="{{ site.title }} logo">
+        </a>
+      </div>
+    </header>
 
     {%- include header.html -%}
 
