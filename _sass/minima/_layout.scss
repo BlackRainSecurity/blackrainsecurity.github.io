@@ -32,8 +32,8 @@
   margin-right: $spacing-unit;
 
   img {
-//    max-height: $spacing-unit * 1.5;
-    height: 200px;
+    max-height: $spacing-unit * 0.5;
+    height: auto;
     width: auto;
   }
 }
