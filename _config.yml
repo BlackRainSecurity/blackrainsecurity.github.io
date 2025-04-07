@@ -13,8 +13,8 @@ plugins:
 minima:
   skin: dark
   nav_pages:
-    - index.md
-    - about.md
+    - index.markdown
+    - about.markdown
     - clients.markdown
     - solutions.markdown
     - contact.markdown
