@@ -18,3 +18,5 @@ minima:
     - clients.markdown
     - solutions.markdown
     - contact.markdown
+
+logo: /assets/images/logo.png
