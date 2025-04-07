@@ -4,11 +4,11 @@
     {%- assign page_paths = site.minima.nav_pages | default: default_paths -%}
     {%- assign page_titles = site.pages | map: 'title' | compact %}
 
-<!--    {% if site.logo %}
+    {% if site.logo %}
       <a class="site-logo" href="{{ "/" | relative_url }}">
         <img src="{{ site.logo }}" alt="{{ site.title }} logo">
       </a>
-      {% endif %} -->
+    {% endif %}
 
     <a class="site-title" rel="author" href="{{ "/" | relative_url }}">
       {{ site.title | escape }}
