@@ -9,3 +9,11 @@ github_username:
 theme: minima
 plugins:
   - jekyll-feed
+
+minima:
+  nav_pages:
+    - index.md
+    - about.md
+    - clients.markdown
+    - solutions.markdown
+    - contact.markdown
